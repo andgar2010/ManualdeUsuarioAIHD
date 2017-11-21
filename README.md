@@ -1,4 +1,4 @@
 # Manual de Usuario NEW RESET A.I.H.D.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+NEW RESET AIHD es un sitio web para soporte tecnologico \(mesa de ayuda\) para ayuda dirigida a los aparatos tecnológicos con los que cuenta la institución en Colegio Distrital Alfredo Iriarte.
 
